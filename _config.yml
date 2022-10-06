@@ -400,8 +400,14 @@ plugins:
 #     - https://github.com/<username>
 
 # thumbnail
-og_image:               /assets/img/cube.jpg
-og_title:               Study Blog
+# og_image:               /assets/img/cube.jpg
+# og_title:               Study Blog
+image:
+  path:    /assets/img/cube.jpg
+  srcset:
+    1920w: /assets/img/cube.jpg
+    960w:  /assets/img/cube.jpg
+    480w:  /assets/img/cube.jpg
 
 # Plugin Configs
 # ---------------------------------------------------------------------------------------
