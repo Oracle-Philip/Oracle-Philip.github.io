@@ -55,23 +55,38 @@ author:
 menu:
   - title:             Study
     url:               /study/
+    # submenu:
+    #   - title:  Flutter
+    #     url:      /flutter/
+    #   - title:  Kotlin-in-aciton
+    #     url:      /kotlin-in-action/
+    #   - title:  Android Jetpack
+    #     url:      /jetpack/
+    #   - title:  Library
+    #     url:      /library/
+    #   - title:  ML/DL
+    #     url:      /mldl/
+    #   - title:  Class
+    #     url:      /class/
+    #   - title:  blog-etc
+    #     url:      /blog-etc/
   - title:             Blog
     url:               /blog/
-    submenu:
-      - title:  GithubPages
-        url:      /githubpages/
-      - title:  Android BLE/
-        url:      /android-ble
-      - title:  Android Jetpack
-        url:      /jetpack/
-      - title:  Library
-        url:      /library/
-      - title:  ML/DL
-        url:      /mldl/
-      - title:  Class
-        url:      /class/
-      - title:  blog-etc
-        url:      /blog-etc/
+    # submenu:
+    #   - title:  GithubPages
+    #     url:      /githubpages/
+    #   - title:  Android BLE
+    #     url:      /android-ble
+    #   - title:  Android Jetpack
+    #     url:      /jetpack/
+    #   - title:  Library
+    #     url:      /library/
+    #   - title:  ML/DL
+    #     url:      /mldl/
+    #   - title:  Class
+    #     url:      /class/
+    #   - title:  blog-etc
+    #     url:      /blog-etc/
   - title:             About
     url:               /about/
 
@@ -99,7 +114,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-#theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 
@@ -155,10 +170,10 @@ defaults:
       sitemap:         false
 
   # # You can use the following to enable comments on all posts.
-  # - scope:
-  #     type:            posts
-  #   values:
-  #     comments:        true
+  - scope:
+      type:            posts
+    values:
+      comments:        true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
