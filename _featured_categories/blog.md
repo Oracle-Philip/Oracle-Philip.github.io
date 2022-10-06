@@ -5,6 +5,7 @@ bigtitle: Blog
 sitemap: true
 hide_description: false
 order: 2
+grouped: true
 description: >
   블로그 주요 포스팅 공간
 ---
