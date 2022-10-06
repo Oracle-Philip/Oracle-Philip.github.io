@@ -18,9 +18,9 @@ redirect_from:
 ## Personal Data
 
 ---
-
+<!--
 > 1990.3.9 대한민국,서울특별시,구로구 출생
-> 
+> -->
 
 > 연락처: philipy075@gmail.com
 > 
