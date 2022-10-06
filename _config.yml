@@ -17,7 +17,7 @@ url:                   https://Oracle-Philip.github.io
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Philip의 블로그
@@ -25,13 +25,15 @@ title:                 Philip의 블로그
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  공부해서 정리하는 블로그
+    공부해서 정리하는 블로그
 
 # A shorter description for the sidebar.
-tagline:               빠르기보다는 꾸준히 천천히하자
+tagline:               "
+    빠르기보다는 꾸준히 천천히하자
+		"
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Android, Flutter, Dart, Kotlin, BLE]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -44,17 +46,32 @@ apple_touch_icon: /assets/icons/favicon.ico
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                SANGPILL YOON
+  email:               philipy075@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
+  - title:             Study
+    url:               /study/
+  - title:             Blog
+    url:               /blog/
+    submenu:
+      - title:  GithubPages
+        url:      /githubpages/
+      - title:  Android BLE/
+        url:      /android-ble
+      - title:  Android Jetpack
+        url:      /jetpack/
+      - title:  Library
+        url:      /library/
+      - title:  ML/DL
+        url:      /mldl/
+      - title:  Class
+        url:      /class/
+      - title:  blog-etc
+        url:      /blog-etc/
   - title:             About
     url:               /about/
 
@@ -82,8 +99,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton

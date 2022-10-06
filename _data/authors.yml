@@ -8,8 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Android Junior 개발자의 기술블로그
-    Native Android, Flutter, Firebase, BLE
+      Android Junior 개발자의 기술블로그
+      
+      Native Android, Flutter, Firebase, BLE
 
   # This photo will be used in the about section
   picture:
