@@ -402,7 +402,7 @@ plugins:
 # thumbnail
 og_image:               /assets/img/cube.jpg
 # og_title:               Study Blog
-image:
+image:      /assets/img/cube.jpg
   path:    /assets/img/cube.jpg
   srcset:
     1920w: /assets/img/cube.jpg
