@@ -3,7 +3,7 @@ layout: list
 category: blog
 title: blog-etc
 description: >
-  kotlin in action study
+  Not yet
 related_posts:
   -
 addons:

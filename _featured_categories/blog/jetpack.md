@@ -3,7 +3,7 @@ layout: list
 category: blog
 title: jetpack
 description: >
-  kotlin in action study
+  Not yet
 related_posts:
   -
 addons:

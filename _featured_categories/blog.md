@@ -2,10 +2,14 @@
 layout: list
 type: category
 bigtitle: Blog
+slug: blog
+permalink: /blog/
 sitemap: true
 hide_description: false
-order: 2
+order: 1
+menu: true
 grouped: true
+list: true
 description: >
   블로그 주요 포스팅 공간
 ---

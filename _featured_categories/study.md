@@ -5,6 +5,7 @@ bigtitle: Study
 sitemap: true
 hide_description: false
 order: 1
+grouped: true
 description: >
    공부
 ---

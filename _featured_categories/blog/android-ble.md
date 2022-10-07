@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: list
 category: blog
 title: android-ble
 description: >
-  Flutter with FLUS
+  Not yet
 related_posts:
   -
 addons:
