@@ -18,10 +18,8 @@ description: >
 * [Firebase]{:.heading.flip-title} --- Android SNS App
 * [Native-Android]{:.heading.flip-title} --- Library
 * [kotlin-in-action]{:.heading.flip-title} --- Developer-book-club Kotlin Study
-* [blog-etc]{:.heading.flip-title} --- 기타, 이것저것
 
 [Flutter]: /flutter/
 [Firebase]: /Firebase/
 [Native-Android]: /Native-Android/
 [kotlin-in-action]: /kotlin-in-action/
-[blog-etc]: /blog-etc/
