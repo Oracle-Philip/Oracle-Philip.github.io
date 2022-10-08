@@ -1,7 +1,7 @@
 ---
 layout: list
 category: blog
-title: android-ble
+title: BLE
 description: >
   Not yet
 related_posts:

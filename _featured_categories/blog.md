@@ -18,12 +18,12 @@ description: >
 
 ## 카테고리
 
-* [GithubPages]{:.heading.flip-title} --- 깃허브 블로그
+* [Android-UI]{:.heading.flip-title} --- Android UI 알아보기
 * [BLE]{:.heading.flip-title} --- Android BLE 구현하기
 * [Jetpack]{:.heading.flip-title} --- Android Jetpack
 * [blog-etc]{:.heading.flip-title} --- 기타, 이것저것
 
-[GithubPages]: /githubpages/
+[Android-UI]: /android-ui/
 [BLE]: /android-ble/
 [Jetpack]: /jetpack/
 [blog-etc]: /blog-etc/
