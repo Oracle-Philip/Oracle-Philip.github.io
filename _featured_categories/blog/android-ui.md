@@ -1,9 +1,9 @@
 ---
 layout: list
 category: blog
-bigtitle: android-ui
+title: Android UI
 description: >
-  Not yet
+  Android Ui에 대한 게시글
 related_posts:
   -
 addons:
