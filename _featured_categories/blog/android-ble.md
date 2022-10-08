@@ -1,9 +1,9 @@
 ---
 layout: list
 category: blog
-title: android-ble
+title: BLE
 description: >
-  Not yet
+  Android BLE 관련 게시글
 related_posts:
   -
 addons:
