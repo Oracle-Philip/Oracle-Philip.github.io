@@ -1,3 +1,17 @@
+---
+layout: post
+title: 'Android12 기준 BLE 구현방법'
+subtitle:   "."
+date: '2021-07-01 12:45:51 +0900'
+categories:
+    - blog
+    - android-ble
+tags:
+    - ble
+comments: true
+published: true
+---
+
 # Android BLE function implement
 
 ### AndroidManifest.xml

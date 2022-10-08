@@ -3,12 +3,12 @@ layout: list
 category: blog
 title: BLE
 description: >
-  Not yet
+  Android BLE 구현관련 게시글
 related_posts:
   -
 addons:
   - related
   - comments
 list: true
-order: 2
+order: 1
 ---
