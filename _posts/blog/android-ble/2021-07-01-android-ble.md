@@ -236,7 +236,7 @@ private final BluetoothGattCallback mGattCallback = new BluetoothGattCallback() 
     };
 ```
 
-### 장치 연결해제를 위한 샘플코드
+### 장치 연결•해제를 위한 샘플코드
 
 ```java
 public boolean connect(final String address, final String devicename) {
