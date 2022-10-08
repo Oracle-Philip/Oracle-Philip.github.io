@@ -7,7 +7,7 @@ categories:
     - blog
     - android-ble
 tags:
-    - BLE
+    -
 comments: true
 published: true
 ---
