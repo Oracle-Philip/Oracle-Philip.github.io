@@ -7,7 +7,7 @@ categories:
     - blog
     - android-ble
 bigtags:
-    - ble
+    - BLE
 comments: true
 published: true
 ---
