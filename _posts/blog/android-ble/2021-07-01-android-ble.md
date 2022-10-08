@@ -6,7 +6,7 @@ date: '2021-07-01 12:45:51 +0900'
 categories:
     - blog
     - android-ble
-tags:
+bigtags:
     - ble
 comments: true
 published: true
@@ -109,11 +109,11 @@ private ScanCallback mScanCallback = new ScanCallback() {
     @Override
     public void onScanResult(int callbackType, ScanResult result) {
         try {
-						/*
-						 *   result.getDevice() 호출을 통해 원하는 기능구현을 할 수 있다.  
-		         *   result.getDevice().getName();
-             *   result.getDevice().getAddress();
-						 */
+            /*
+            *   result.getDevice() 호출을 통해 원하는 기능구현을 할 수 있다.  
+            *   result.getDevice().getName();
+            *   result.getDevice().getAddress();
+            */
             }
         } catch (NullPointerException e){}
         finally {
