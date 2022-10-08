@@ -16,10 +16,10 @@ description: >
 
 * [Flutter]{:.heading.flip-title} --- Flutter with FLUS
 * [Firebase]{:.heading.flip-title} --- Android SNS App
-* [Native-Android]{:.heading.flip-title} --- Library
+* [Library]{:.heading.flip-title} --- Library
 * [kotlin-in-action]{:.heading.flip-title} --- Developer-book-club Kotlin Study
 
 [Flutter]: /flutter/
-[Firebase]: /Firebase/
-[Native-Android]: /Native-Android/
+[Firebase]: /firebase/
+[Library]: /library/
 [kotlin-in-action]: /kotlin-in-action/
