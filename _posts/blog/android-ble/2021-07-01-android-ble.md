@@ -12,7 +12,7 @@ comments: true
 published: true
 ---
 
-# Android BLE function implement
+<!-- # Android BLE function implement -->
 
 ### AndroidManifest.xml
 
