@@ -16,7 +16,7 @@ description: >
 
 * [Flutter]{:.heading.flip-title} --- Flutter with FLUS
 * [Firebase]{:.heading.flip-title} --- Android SNS App
-* [Library]{:.heading.flip-title} --- Library
+* [Library]{:.heading.flip-title} --- Native Android Library
 * [kotlin-in-action]{:.heading.flip-title} --- Developer-book-club Kotlin Study
 
 [Flutter]: /flutter/
