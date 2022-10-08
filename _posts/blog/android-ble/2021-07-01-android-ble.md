@@ -60,11 +60,11 @@ published: true
     - 응용 프로그램은 ScanFilter를 사용하여 특정 유형의 Bluetooth LE 장치를 검색할 수 있다.
         - 또한 결과를 전달하기 위해 다양한 유형의 콜백을 요청할 수 있다.
     - BluetoothAdapter.getBluetoothLeScanner()를 사용하여 BluetoothLeScanner의 인스턴스를 가져온다.
-    `예) mBLEScanner = mBluetoothAdapter.getBluetoothLeScanner();`
+    `ex_  mBLEScanner = mBluetoothAdapter.getBluetoothLeScanner();`
 
 - ScanSettings class에 대해서는 다음과 같이 설명하고 있다.
     - Bluetooth LE 스캔 설정은 BluetoothLeScanner.startScan으로 전달되어 스캔 매개변수를 정의한다.
-    `예) mBLEScanner.startScan(scanFilters, scanSettings, scanCallback);`
+    `ex_  mBLEScanner.startScan(scanFilters, scanSettings, scanCallback);`
     - scan을 위한 5가지 모드가 있다. 일반적으로 SCAN_MODE_LOW_POWER를 사용한다.
         - SCAN_MODE_OPPORTUNISTIC
             - 특별한 블루투스 LE 스캔 모드이다.
