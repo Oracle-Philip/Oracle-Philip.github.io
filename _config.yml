@@ -39,7 +39,7 @@ keywords:              [Android, Flutter, Dart, Kotlin, BLE]
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/img/shield.png
-
+og_image:               /assets/img/cube.jpg
 favicon: /assets/icons/favicon.ico
 apple_touch_icon: /assets/icons/favicon.ico
 
@@ -402,7 +402,7 @@ plugins:
 #     - https://github.com/<username>
 
 # thumbnail
-# og_image:               /assets/img/cube.jpg
+
 # og_title:               Study Blog
 # image:
 #   path:    /assets/img/cube.jpg
