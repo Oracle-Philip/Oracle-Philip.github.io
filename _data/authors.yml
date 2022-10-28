@@ -14,11 +14,11 @@ author1:
 
   # This photo will be used in the about section
   picture:
-    path:            /assets/img/character.gif
+    path:            /assets/img/character.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/character1.gif
-      2x:            /assets/img/character2.gif
+      1x:            /assets/img/character1.png
+      2x:            /assets/img/character2.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
