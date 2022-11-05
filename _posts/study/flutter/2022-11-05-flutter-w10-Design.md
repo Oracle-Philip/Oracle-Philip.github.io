@@ -27,7 +27,7 @@ sitemap: false
         
         - Scaffold Messenger
     
-        > 기존 SnackBar는 새 페이지로 이동하지 않는다. 이때 Scaffold Messenger를 사용한다. Scaffold Messenger는 모든 스캐폴드의 상위에서 작동하게 된다. 새로운 스캐폴드가 실행될 때마다 상위 Scaffold Messenger를 탐색하게 되고, looks up the tree for an ancestor scaffold and subscribes to snack bar events 한다.
+        > 기존 SnackBar는 새 페이지로 이동하지 않는다. 이때 Scaffold Messenger를 사용한다. Scaffold Messenger는 모든 스캐폴드의 상위에서 작동하게 된다. 새로운 스캐폴드가 실행될 때마다 상위 Scaffold Messenger를 탐색하게 되고, snack bar events를 subscribes한다.
         > ![](https://velog.velcdn.com/images/philipy/post/264153b4-0961-46ef-9ac0-2e703344d32b/image.png)
     
         ```dart
