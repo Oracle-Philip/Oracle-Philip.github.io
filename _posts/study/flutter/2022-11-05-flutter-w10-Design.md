@@ -31,8 +31,6 @@ sitemap: false
         > ![](https://velog.velcdn.com/images/philipy/post/264153b4-0961-46ef-9ac0-2e703344d32b/image.png)
     
         ```dart
-        ScaffoldMessenger.of(Context)
-
         final _scaffoldKey = GlobalKey<ScaffoldMessengerState>();
 
         MatreialApp(
@@ -44,6 +42,8 @@ sitemap: false
         scaffoldMessengerState.showSnackBar(
             SnackBar(...),
         )
+        
+        ScaffoldMessenger.of(Context)
         ```
 
     - Update the UI based on orientation
