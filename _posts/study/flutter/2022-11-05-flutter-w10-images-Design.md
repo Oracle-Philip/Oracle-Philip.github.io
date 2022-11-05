@@ -14,7 +14,7 @@ hide_last_modified: true
 sitemap: false
 ---
 
-# Flutter w10 Images, Design
+# Flutter w10 _Images, Design
 
 - Cookbook - Images
     - Display images from the internet
