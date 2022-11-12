@@ -16,5 +16,6 @@ published: true
 ## 참고 사이트 URL
 
 - [https://tre2man.tistory.com/179](https://tre2man.tistory.com/179)
-- [https://carbon.now.sh/?bg=rgba%28255%2C255%2C255%2C1%29&t=one-light&wt=none&l=auto&width=680&ds=true&dsyoff=66px&dsblur=68px&wc=true&wa=true&pv=0px&ph=0px&ln=false&fl=1&fm=Hack&fs=14px&lh=143%25&si=false&es=2x&wm=false](https://carbon.now.sh/?bg=rgba%28255%2C255%2C255%2C1%29&t=one-light&wt=none&l=auto&width=680&ds=true&dsyoff=66px&dsblur=68px&wc=true&wa=true&pv=0px&ph=0px&ln=false&fl=1&fm=Hack&fs=14px&lh=143%25&si=false&es=2x&wm=false)
+- [https://carbon.now.sh/](https://carbon.now.sh/)
+- [https://github.com/carbon-app/carbon](https://github.com/carbon-app/carbon)
 
