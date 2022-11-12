@@ -13,7 +13,7 @@ published: true
 
 # 맥 스타일로 코드결과 보여주기
 
-## 참고 사이트 URL
+## 참고 URL
 
 - [https://tre2man.tistory.com/179](https://tre2man.tistory.com/179)
 - [https://carbon.now.sh/](https://carbon.now.sh/)
