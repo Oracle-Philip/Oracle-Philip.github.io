@@ -2,7 +2,7 @@
 layout: post
 title: '스프링부트 기초'
 subtitle:   "."
-date: '2022-11-13 12:45:51 +0900'
+date: '2022-11-13 00:45:51 +0900'
 categories:
     - blog
     - blog-etc
