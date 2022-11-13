@@ -11,7 +11,7 @@ comments: true
 published: true
 ---
 
-# 스프링부트 기초_1
+# 스프링부트 기초_error Failed to configure a DataSource: ‘url’ 
 
 ## error Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured
 
