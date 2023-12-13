@@ -6,8 +6,6 @@ has_children: true
 permalink: /docs/etc
 ---
 
-# Menu2
-{: .no_toc }
+# etc
 
-Menu2 Test
-{: .fs-6 .fw-300 }
+일상생활, 인터넷 강의 등
