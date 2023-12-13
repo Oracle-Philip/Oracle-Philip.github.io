@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fastcampuse_event
+title: 2023-12 패스트캠퍼스 이벤트 참여
 parent: etc
 nav_order: 1
 ---
